@@ -1,0 +1,5 @@
+export const LOGIN='LOGIN';
+export const GET_RANK='GET_RANK';
+export const GET_IQ_QUESTION='GET_IQ_QUESTION';
+export const GET_CHOICE_QUESTION='GET_CHOICE_QUESTION';
+export const SAVE_RESULT='SAVE_RESULT';

@@ -1,0 +1,99 @@
+nav{
+    
+font-size: 25px;
+    font-family: 'Kaushan Script';	
+    font-weight: bold;
+    color: brown;
+    background-color: lightblue;
+}
+#hello
+{
+    color: green;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+input#ava
+{
+    width: 105px;
+}
+.question
+{
+    background-color:cadetblue;
+    border-radius: 24px;
+    padding: 10px 10px 5px 10px;
+}
+#login-form
+{
+    
+    margin-left: 300px;
+    margin-top:300px;
+}
+.as
+{
+    background: linear-gradient(to bottom right, rgb(65, 78, 253) , rgb(11, 182, 240) ); 
+    border-radius: 24px;
+    padding: 5px 10px;
+    margin: 5px 0px;
+}
+.as.true
+{
+    background: linear-gradient(to bottom right, green , lightblue); 
+}
+.as.false
+{
+    background: linear-gradient(to bottom right, red , lightblue); 
+}
+.as:hover,.as.active,.as.choose
+{
+    background: linear-gradient(to bottom right, white , orange); 
+}
+table,td{
+    width:100%;
+    text-align: center;
+}
+td.stt,td.total
+{
+    width: 15px;
+    text-align: center;
+}
+.green
+{
+    color:green;
+}
+div.F > textarea
+{
+  
+   height: 70px;
+   margin-left: 15px;
+   margin-top: 10px;
+   margin-right: 10px;
+   margin-bottom: 10px;
+}
+div.F > button
+{
+    height: 40px;
+    margin-left: 15px;
+}
+#status
+{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+#result-question
+{
+    margin-left: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+#next-question
+{
+    margin-left: 20px;
+    font-weight: bold;
+    text-align: center;
+    float: right;
+}
